@@ -2,13 +2,11 @@
 
 ******
 
-## Automation
+## Automation & Control (AC)
 
-## Control
+## Intelligent Robot (IR)
 
 ## Autonomous Driving (AD)
-
-## Robot
 
 ******
 

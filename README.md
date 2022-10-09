@@ -4,6 +4,8 @@
 
 ## Automation
 
+## Control
+
 ## Autonomous Driving (AD)
 
 ## Robot

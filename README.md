@@ -2,16 +2,20 @@
 
 ******
 
+## Machinery
+
 ## Automation & Control (AC)
 
 ## Intelligent Robot (IR)
 
 ## Autonomous Driving (AD)
 
-## Unmanned Aerial Vehicle (UAV)
-
 ******
 
+## Optical Control (OC)
+
 ## Wearable Photonics (WP)
+
+## Brain–Computer Interface (BCI)
 
 ## Computer-Human Interaction (CHI)

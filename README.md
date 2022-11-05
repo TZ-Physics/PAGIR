@@ -1,8 +1,8 @@
-# Intelligent Agents and Automation Control Systems (IAACS)
+# Multi-modal Automation Control Systems and Intelligent Agents (MACIA)
 
 ******
 
-## Machinery
+## Optical-electro-mechanical System (OEMS)
 
 ## Automation & Control (AC)
 

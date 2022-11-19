@@ -12,10 +12,10 @@
 
 ******
 
-## Optical Control (OC)
+## Physical Robot (PR)
 
 ## Wearable Photonics (WP)
 
-## Brain–Computer Interface (BCI)
-
 ## Computer-Human Interaction (CHI)
+
+## Brain–Computer Interface (BCI)

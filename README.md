@@ -1,4 +1,4 @@
-# Multi-modal Automation Control Systems and Intelligent Agents (MACIA)
+# Multi-Modal Artificial General Intelligence Robot (MAGIR)
 
 ******
 
@@ -18,4 +18,4 @@
 
 ## Brain–Computer Interface (BCI)
 
-## Thought Transfer (TT)
+## Artificial General Intelligence (AGI)

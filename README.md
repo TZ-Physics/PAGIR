@@ -1,4 +1,4 @@
-# Multi-Modal Artificial General Intelligence Robot (MAGIR)
+# Multipurpose Artificial General Intelligence Robot (MAGIR)
 
 ******
 
